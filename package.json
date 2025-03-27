@@ -1,7 +1,6 @@
 {
   "name": "teste",
   "version": "1.0.0",
-  "description": "",
   "license": "MIT",
   "author": "",
   "type": "module",
@@ -13,10 +12,20 @@
   "dependencies": {
     "@prisma/client": "^6.5.0",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "nodemon": "^3.1.9"
+    "express": "^4.21.2"
   },
   "devDependencies": {
+    "nodemon": "^3.1.9",
     "prisma": "^6.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandraaversani/atividade-API-de-anotacoes-pessoais.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Alexandraaversani/atividade-API-de-anotacoes-pessoais/issues"
+  },
+  "homepage": "https://github.com/Alexandraaversani/atividade-API-de-anotacoes-pessoais#readme",
+  "description": ""
 }
