@@ -1,0 +1,22 @@
+# QuickNotes - API de Anotações
+
+Este projeto é uma API RESTful para gerenciar anotações. Ela permite criar, listar, atualizar, excluir e marcar anotações como favoritas. A API foi desenvolvida usando **Node.js** e **Prisma ORM**, e pode ser integrada facilmente a qualquer front-end ou aplicação.
+
+## Funcionalidades
+
+- Criar novas anotações
+- Listar todas as anotações
+- Buscar anotações por ID
+- Atualizar anotações
+- Deletar anotações
+- Marcar anotações como favoritas
+
+## Tecnologias Utilizadas
+
+- **Node.js**: Framework backend para JavaScript.
+- **Express**: Framework para construção da API.
+- **Prisma** ORM: Biblioteca de gerenciamento de banco de dados.
+- **Thunder Client**: Mostrar se está funcional ou não o back-end.
+
+
+
